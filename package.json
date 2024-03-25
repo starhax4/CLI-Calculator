@@ -1,0 +1,20 @@
+{
+  "name": "hamzaislam-calculator",
+  "version": "1.0.1",
+  "description": "calculator",
+  "main": "index.js",
+  "bin": "index.js",
+  "dependencies": {
+    "hamzaislam-calculator": "^1.0.1",
+    "inquirer": "^9.2.16"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HAmza",
+  "license": "MIT"
+}
