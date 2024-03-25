@@ -1,4 +1,4 @@
 
-# My First npm Pakage
+# CLI-Calculator
 
-A simple CLI Calculator for my PIAIC assignment.
+A Simple CLI Calculator.
