@@ -5,7 +5,7 @@
   "main": "index.js",
   "bin": "index.js",
   "dependencies": {
-    "hamzaislam-calculator": "^1.0.1",
+    "hamzaislam-calculator": "^1.0.3",
     "inquirer": "^9.2.16"
   },
   "type": "module",
