@@ -19,11 +19,14 @@ if(answer.operator === "+"){
 }else if(answer.operator === "/"){
   console.log(`Answer : ${answer.num1 / answer.num2}`);
   
-}else if(answer.operator === "/"){
+}else if(answer.operator === "%"){
   console.log(`Answer : ${answer.num1 % answer.num2}`);
   
 }
 else {
   console.log("Invalid Operation!")
 }
+
+
+
 
